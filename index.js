@@ -15,4 +15,4 @@ const createFareMultiplier = function (int){
     }
   }
 
-const faredoubler
+const faredoubler = 
