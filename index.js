@@ -15,6 +15,8 @@ const createFareMultiplier = function (int){
     }
   }
 
+
+
 const faredoubler = createFareMultiplier(2);
 
 
