@@ -11,7 +11,6 @@ const selectingDrivers= [returnFirstTwoDrivers,returnLastTwoDrivers];
 
 const createFareMultiplier = function (int){
     return function multiply(price){
-      returnprice*int
+      return price*int
     }
   }
-}
