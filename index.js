@@ -14,5 +14,3 @@ const createFareMultiplier = function (int){
       return price*int
     }
   }
-
-const= createFareMultiplier(2)
